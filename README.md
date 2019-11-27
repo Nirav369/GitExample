@@ -2,7 +2,7 @@
 
 NOTE - ALL SHOULD BE DONE AS SEPERATE TASKS
 
-1. Download the latest code !
+1. Download the latest code ! (Do not clone it since you already have cloned it)
 
 2. Add one line below and send me the pull request.
 
