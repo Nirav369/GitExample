@@ -18,4 +18,3 @@ NiravP is editing this doc
     - Add it to staging area - then remove it from staging area.
     - Commit the changes - then uncommit the changes.
     - Push the changes - and undo the push.
->>>>>>> a7b265140d0b3a1945389ab7154b479cd147dcce
