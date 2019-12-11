@@ -1,16 +1,7 @@
 # GitExample
-
-NOTE - ALL SHOULD BE DONE AS SEPERATE TASKS
-
-1. Download the latest code ! (Do not clone it since you already have cloned it)
-
-2. Add one line below and send me the pull request.
-
-3. Try to add another line directly to the master branch
-
-4. Work in groups of 2 and try to merge your statements in one branch and then merge it to the master branch.git
-
-5. Add another line, 
-    - Add it to staging area - then remove it from staging area.
-    - Commit the changes - then uncommit the changes.
-    - Push the changes - and undo the push.
+1.	Find which greatest value and smallest value from A = 22, B= 76, C = 09.
+2.	Print Even numbers in Descending order between 49 – 1.
+3.	Write a program to print following :  
+4.	Write a program with a method named getTotal that accepts two integers as an argument and return its sum. Call this method from main( ) and print the results.
+5.	Write a value-returning method, isVowel that returns the value true if a given character is a vowel, and otherwise returns false. In main() method accept a string from user and count number of vowels in that string.
+6.	Write a program that prompts the user to enter three names. Your program should display the names in descending order.
